@@ -1,0 +1,12 @@
+Steps
+
+1) install xmap on device
+2) Drag or paste project file in c:\xamp\htdocs\ "project"
+3) Start xamp server
+4) open browser then localhost/phpmyadmin
+	connect the Database with "project" name
+5) then open net tab and type localhost/online-examination-system/
+6) project is ready to run 
+
+
+Thank You
